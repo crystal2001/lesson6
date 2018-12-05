@@ -1,0 +1,8 @@
+name = input('What is your name? ')
+print('Nice to meet you ' + name + ", my name is Chatbot.")
+age = input('How old are you? ')
+print('Wow ' + age + ' years old! Must be nice to be older than a day.')
+feeling = input('So like how are you feeling today? ')
+print('So you are feeling '+ feeling.lower() + '. ' + 'Must be cool to have real human emotions, I can not relate')
+movie = input('What is your favorite movie? ')
+print(movie.capitalize() + '!' + ' My favorite movie is Ex Machina')
